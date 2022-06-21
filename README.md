@@ -28,43 +28,42 @@
 
 ## 3**. 아키텍처**
 
-![Untitled](asset/Untitled.png)
+![image](https://user-images.githubusercontent.com/30211245/174721550-0c80b50a-9435-4209-b3b4-0a290a58fb7b.png)
+
 
 ## 4**. 서비스 화면**
 
 ### **메인페이지**
 
-![Untitled](asset/Untitled 1.png)
+![image](https://user-images.githubusercontent.com/30211245/174721596-2ad6573d-e4bd-44c2-89a2-4a7bac51cb58.png)
+
 
 ### 로그인
 
-![Untitled](asset/Untitled 2.png)
+![image](https://user-images.githubusercontent.com/30211245/174721626-e3903fa4-1e50-45e1-9d34-bdc471a964a7.png)
+
 
 ### 회원가입
+![image](https://user-images.githubusercontent.com/30211245/174721655-e075dd97-1155-447e-bc74-3513310cf239.png)
+![image](https://user-images.githubusercontent.com/30211245/174721672-372cf2a6-9764-44df-a24f-dc2bbe29771e.png)
 
-![Untitled](asset/Untitled 3.png)
-
-![Untitled](asset/Untitled 4.png)
 
 ### 일기 캘린더
-
-![Untitled](asset/Untitled 5.png)
-
+![image](https://user-images.githubusercontent.com/30211245/174721686-af366a0d-c708-4f1f-a364-4c01ac11c2e6.png)
 ### 일기 그리드로 보기
 
-![Untitled](asset/Untitled 6.png)
+![image](https://user-images.githubusercontent.com/30211245/174721750-83ebfb32-1cbd-4ee3-a08c-1f1aa0facedb.png)
 
 ### 일기 작성 페이지
 
-![Untitled](asset/Untitled 7.png)
+![image](https://user-images.githubusercontent.com/30211245/174721700-b9dbd26e-8232-4634-8bd8-9e7bec1fd10b.png)
 
 ### 마이페이지
-
-![Untitled](asset/Untitled 8.png)
+![image](https://user-images.githubusercontent.com/30211245/174721766-669ea34c-9858-4d9b-8b5b-7e0705df048c.png)
 
 ### 캐릭터 꾸미기 탭
 
-![Untitled](asset/Untitled 9.png)
+![image](https://user-images.githubusercontent.com/30211245/174721776-17ca3d73-7647-411b-8fb0-5d80956022be.png)
 
 ## 5**. UCC**
 

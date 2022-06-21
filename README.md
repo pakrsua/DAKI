@@ -4,8 +4,7 @@
 
 ## 사용기술
 
-![Untitled](asset/Untitled 10.PNG)
-
+![image](https://user-images.githubusercontent.com/30211245/174722476-33a7d05d-665c-4b0c-91c3-6c70034cfa30.png)
 # **나만의 일기장을 꾸밀 수 있는 서비스 DAKI**
 
 ## 1**. 기획 배경**
